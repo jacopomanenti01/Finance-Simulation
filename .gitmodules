@@ -1,0 +1,3 @@
+[submodule "FTSE-MIB"]
+	path = FTSE-MIB
+	url = git@github.com:jacopomanenti01/FTSE-MIB.git
