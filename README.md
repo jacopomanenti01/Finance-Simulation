@@ -1,2 +1,1 @@
-prova
-metto tutto
+Studio basato 
